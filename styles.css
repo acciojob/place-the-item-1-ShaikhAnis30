@@ -1,2 +1,24 @@
-
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+.ele1{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+
+.ele2{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+
+.ele3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
